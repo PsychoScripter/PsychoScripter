@@ -2,7 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
