@@ -1,6 +1,6 @@
 ## Skills:
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=C)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
