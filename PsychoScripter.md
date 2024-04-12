@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PsychoProg&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PsychoScripter&show_icons=true&theme=transparent)
